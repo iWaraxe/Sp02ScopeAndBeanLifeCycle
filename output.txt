@@ -1,0 +1,4 @@
+File opened.
+Hello, World!
+Another line of text.
+File closed.
